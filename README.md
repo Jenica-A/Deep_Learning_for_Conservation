@@ -1,4 +1,4 @@
-## Using Deep Learning Techniques to Monitor Protected Areas
+## Classifying Drone Images from Protected Lands: Deep Learning For Conservation
 Jenica Andersen<br>
 Metis DSML, DLF module<br>
 July 6, 2022
