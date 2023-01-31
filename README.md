@@ -1,9 +1,5 @@
 ## Classifying Drone Images from Protected Lands: Deep Learning For Conservation
-Jenica Andersen<br>
-Metis DSML, DLF module<br>
-July 6, 2022
 
-#### Abstract
 The goal of this project was to demonstrate the capabilities of deep learning convolution neural networks, to classify low quality, small-sized aerial images for environmental monitoring. This specific case classified images of columnar cacti from the Tehuacan-Cuicatlan Biosphere Reserve in Mexico. The reserve is a protected area that is proximal to areas where illegal mining, hunting and logging has historically occurred in neighboring preserves. In-person surveillance has proven costly and susceptible to corruption. This demonstrates that images, collected by unmanned air vehicles (drones), can be analyzed by deep learning neural networks to detect activity. This project demonstrates the technologically-aided ability to discern images that contain from images that do not contain cacti, as part of a growing effort to develop solutions. The dataset included 21,500 binary images, 66% were positive class, 33% were the negative class. I constructed a keras model to perform the analysis. The model included a total of 2,773,913 trainable parameters and 8,736 non-trainable parameters, relied on ReLU activation and "Adam" optimization. The final result showed 99.2 accuracy, and 0.02 binary crossentropy loss on the test data. 
 
 #### Design
