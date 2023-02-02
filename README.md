@@ -22,4 +22,4 @@ The model was based on the keras deep learning tutorial found [here](https://ker
 **Final validation scores** val_loss: 0.0223 - val_accuracy: 0.9921
 
 #### Communication
-See accompanying slide deck (for oral presentation and defence on July 13, 2022), and jupyter notebooks. All materials will are available in [my personal github account](https://github.com/Jenica-A/Deep_Learning_for_Conservation) as well. 
+See accompanying slide deck (for oral presentation and defense on July 13, 2022), and jupyter notebooks. All materials are available in [my personal github account](https://github.com/Jenica-A/Deep_Learning_for_Conservation) as well. 
